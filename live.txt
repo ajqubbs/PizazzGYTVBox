@@ -28,6 +28,7 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 
 民视频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpNf_tOIRl4pbqJdSVn9i2w81dmTh2Z-wOVHJ0Evaz0XqIKXhJGEQNifXegR_5mY9atRBSy4ha3DoIvm6jX4ptKZAZX_8pVxYEi3BMH7o_oYGSgIpxb2qn6HxpXS7d_iv_Bqc0kiDLwv9rPB0c9EoNm7BbMGwJSZzH452KjQ0CVhrEGFXg-2Vlog3kxeTgw3P_.m3u8?u=1756732445
 民视台湾频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpxx18Fp7NIU3IKLbwiRPm5M2bN8zhF1WT5npnJkNxs0Ajeebn1MYcGHA8hItFi7GSyaVBwdu19NQ51S-GrST8rMQlQHZm1BviFewS2IsR8_ijZWiuEZq25k9Csw8xAWAAkyBeg5JV2eaQ7pXj7_mR6qFiHs8-bZCf-PF-xGYrfsnvztheX9XML32W8wFspDv9vp5GKWfuGyvVW_fUUnKm6w.m3u8?u=1756732445
+
 民视旅游频道,http://t.061899.xyz/tl/js/api.php?id=mslyt
 民视综艺频道,http://t.061899.xyz/tl/js/api.php?id=mszyt
 中视经典频道,http://t.061899.xyz/tl/js/api.php?id=zsjd
@@ -40,7 +41,7 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 八大第一频道,http://t.061899.xyz/tl/js/api.php?id=bddyt
 八大精彩频道,http://t.061899.xyz/tl/js/api.php?id=bdjct
 八大娱乐频道,http://t.061899.xyz/tl/js/api.php?id=bdylt
-龙祥时代频道,http://t.061899.xyz/tl/js/api.php?id=lxsd
+龙祥时代频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpm-ehQG4VxSgKgejylnUCa3cXOzW9wlAl_A7oUSHYiSUqFmEF-BBpLdejFb3qd1l_Ha_P-l8u3n0xvc9FLJI4QBAR3s3KaBy8HVNHGG9_gPCP72-_vTTPWps8SEpBd6qXlnl51h-KU_yukZiOhZTcXz2XkzmigiQbyJfYb2ChN8kLLg3jVhoJX8--1OkrqJH0kGW6LDr4FqpPEg_216KfsQ.m3u8?u=1756740867
 
 龙华电影频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpKQADlukI8znlJy3bIrf72R5HkSZYXbL9FZgT-QHj4nsxk-8TVyFpIMM0EgpA1O4YxydpBy6Bj_MbYkzYbTucsVe5c1zBhMqi3VwaoVGBGsfKu6TlVOfojzAcppN5KnJ-rxJvTQDH66TVYVvHZet1CqaB0LMYcUqmnHgd6t822xP6IS-dEndgkH0HKw5kzzwkiNRmBswpzRsvED4LPro2GA.m3u8?u=1756732445
 
