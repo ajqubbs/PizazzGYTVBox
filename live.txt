@@ -8,7 +8,10 @@
 港台🇨🇳频道,#genre#
 台湾是中国的,http://t.061899.xyz/tl/js/api.php?id=ztxw
 
-台湾新闻,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2YcjVWaPu4f2bXGAeArOMPzHPrUqDfohwaJiIGnJt9xNjIVk-yyT0MuxHIaHt-VlrC5Bo_8Dd12eH2Zzdj_-DEv7Ba89usgYlEtYtKrDiAChwRB0wH5GaF_ReFXZHAoc7kF4V-4UjhxCbThiIM5P7vOMiM-2c3OTKmhBEtVjleDHLZkdYqVjySbxpbaKc27f_gnCLM3duBgencw_Xfj03Q.m3u8?u=1756740867
+台视新闻,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2YcjVWaPu4f2bXGAeArOMPzHPrUqDfohwaJiIGnJt9xNjIVk-yyT0MuxHIaHt-VlrC5Bo_8Dd12eH2Zzdj_-DEv7Ba89usgYlEtYtKrDiAChwRB0wH5GaF_ReFXZHAoc7kF4V-4UjhxCbThiIM5P7vOMiM-2c3OTKmhBEtVjleDHLZkdYqVjySbxpbaKc27f_gnCLM3duBgencw_Xfj03Q.m3u8?u=1756740867
+台视财经,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp871gcgVgbO2M2yP1YcJgr-xb2T-4c-sQe-BmRsKhLLXYSHZsou_XjfT-s_SD4-MAbEIr1oTfDFQ8TeVWLuWvsRZosnkMzxLVKI28FRZ2j0YuKS1l75zTsYR4rFLmtxE7bTl4n-XpUaufnPEZcGsbaVd26bEJ6KogH9EFPDLsT9Rln-OiOw1UgBCcPFGJ1aXoOIe9w1p0Sh8tj1KPN82RGg.m3u8?u=1756740867
+
+
 
 中天新闻频道,http://t.061899.xyz/tl/js/api.php?id=ztxw
 中天新闻加限,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
