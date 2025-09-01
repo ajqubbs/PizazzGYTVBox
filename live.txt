@@ -109,6 +109,10 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 
 ELTA综合,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYptr9Ar0P7AIO1lDJMi1JWmyu_Tj1hn55AUxPGQZQtI4Fe-dcEZ7FgtiD_eZqfZw03MIS871_XfgqLj1UoCOEjbE4bGRzFipVLSx4YSXmrdqvERGScv7c64IsrMkgYXkCd-kJHeSw9ksO37r57BCsn_j1bRFilVupTGjpaf-lvcDk8M26QfrH9J9FLkBUSEuWSa0h7-Wf7u9lTO2yHqHypPQ.m3u8?u=1756740867
 
+ELTA影剧,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp-ggg_0hNSBOeRjP_X2785X1rT1DbqqWrzY8Pjs-qO1Fo1qWinFfagJhTnE0gDGp_4CfbCkB2a1tDJ0xVk11eCPdlKvCQzUZRF480Z_AeaMZCsifzfVVrb_mlbzt1EA1QsIchRZ-FjGxWN8htXrTEcea99aYF9IGYtc_UulYxkhQEFCLNWnmXYeurAd_v3QKkOAfkvY3Vf23WneZtAMqJUA.m3u8?u=1756740867
+
+
+
 
 
 
