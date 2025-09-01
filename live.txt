@@ -1381,7 +1381,7 @@ CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-特殊🇨🇳频道_00,#genre#
+特殊🇨🇳频道,#genre#
 
 
 💎彩虹1臺💎,https://pan.jl8.top/view.php/9e4a1f1e0fa584932022c409e919b56f.mp4
