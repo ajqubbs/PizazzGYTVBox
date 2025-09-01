@@ -15,7 +15,7 @@
 
 中天新闻频道,http://t.061899.xyz/tl/js/api.php?id=ztxw
 中天新闻加限,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
-寰宇新闻频道,http://t.061899.xyz/tl/js/api.php?id=hyxw
+寰宇新闻频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYptr9Ar0P7AIO1lDJMi1JWmzhkjTHhe3Dc4ZXPDJZJT6wqq0LVbq-bDAwk5dDtCqm7k4F33yKTWkXgAy5hz_BTUovgB_bCgUob7VVP-xzT8uCfBGZCHEG40NTfrfceqxReJUhII187wKGT3SWioDB5iXcDqnnqsUud_ke6Li8_FjGIK-BwjF9Mgch_YVC8Hrq1B295v4NndFwNXM1Zm1Ol2g.m3u8?u=1756740867
 
 
 
