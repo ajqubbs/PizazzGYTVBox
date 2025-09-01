@@ -101,6 +101,9 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 寰宇财经频道,http://t.061899.xyz/tl/js/api.php?id=hycj
 八大第一频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYptr9Ar0P7AIO1lDJMi1JWm-VK2q0ZUco9XgQez2KNNzo_P0cNur8gMJVUI1tme5Dc2GwsnDqqJ52P0Pnv7DGgc70f5B6u-UtCT3NgGzHoveURUxFGZxNZAq6ued6oBK4j-RhFKZJB1ss68s1LfH5uDlFK7iW5wN4pnku_y_Fz7J5HZMyOXZ981o78fqmwXpUkI9DXbl4NdwEg6QjVmLs-2w.m3u8?u=1756740867
 
+八大综合频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYptr9Ar0P7AIO1lDJMi1JWm8Q6VJJD3beFO7WkrxF_HlqAqgUCbNl4SPb7KrpwlghBvhMCVdKWepluguSNE2nEqAjjFP_vVykP3oRHm2TRyHxTNiE1YXQ66y9i2zJvQH7RmqszgdmWvvrJhXT75t9QA-VaNTxkTrlm2p_3rJ6RvZg4T43BjkZ6zsM8aaK8z3JXFL2b7T3v9eZsvfr-CWpiyw.m3u8?u=1756740867
+
+
 八大精彩频道,http://t.061899.xyz/tl/js/api.php?id=bdjct
 八大娱乐频道,http://t.061899.xyz/tl/js/api.php?id=bdylt
 龙祥时代频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpm-ehQG4VxSgKgejylnUCa3cXOzW9wlAl_A7oUSHYiSUqFmEF-BBpLdejFb3qd1l_Ha_P-l8u3n0xvc9FLJI4QBAR3s3KaBy8HVNHGG9_gPCP72-_vTTPWps8SEpBd6qXlnl51h-KU_yukZiOhZTcXz2XkzmigiQbyJfYb2ChN8kLLg3jVhoJX8--1OkrqJH0kGW6LDr4FqpPEg_216KfsQ.m3u8?u=1756740867
