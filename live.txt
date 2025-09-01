@@ -197,48 +197,12 @@ tvbs欢乐频道,http://t.061899.xyz/tl/js/api.php?id=tvbshlt
 
 壹电视电影,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpHWdjinUk8hvTFXmfW7vuZkIVX7I-VJrchYwTgS2p7ufQrLPMwkPnGCEEFU8UxPs9PcveW1BlGtjir6d69jLmFPnzRhq221JUSMdoHI_fJ587i89Pt8wSHk2AEQgbfpOursN3Zxca9hyur3sNDfixON9cBcjSISK0Tbe3ZwiK3iLIiprYRnSxjyc3FApq-TfnffJ65132mBNcG4eAjKkJ6w.m3u8?u=1756740867
 
+壹电视综合，http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpGFsrHDnqiZ84bc-Kh4Da5D0tZ8pluI96wbZDyr42gFx7myRkIJ8ede1D7Up_0tIlWJ2nHTbYg5uPuGIg6yG2OYuIFKfB3Wm8l7uFa9rm4by_ggwBfteLMiWShlqeew5k7Aq0045On_32SfNWMZJ70hlznCXa0PeqsYoQ2OLtxFPBIDi5YTIc4X-ClLoBDnN_S4iv3akSX23-gldeW3oSGA.m3u8?u=1756740867
 
 
-华艺综合频道,http://t.061899.xyz/tl/js/api.php?id=mbchyzht
-LUXE_TV频道,http://t.061899.xyz/tl/js/api.php?id=luxetv
-亚洲旅游频道,http://t.061899.xyz/tl/js/api.php?id=yzlyt
-闽南'Plus频道,http://t.061899.xyz/tl/js/api.php?id=plustw
-EYE-旅游频道,http://t.061899.xyz/tl/js/api.php?id=eyetvly
-EYE-戏剧频道,http://t.061899.xyz/tl/js/api.php?id=eyetvxj
-ELta日韩频道,http://t.061899.xyz/tl/js/api.php?id=eltarh
-ELta影剧频道,http://t.061899.xyz/tl/js/api.php?id=eltayj
-ELta综合频道,http://t.061899.xyz/tl/js/api.php?id=eltazh
-ELta娱乐频道,http://t.061899.xyz/tl/js/api.php?id=eltayl
-ELta生活频道,http://t.061899.xyz/tl/js/api.php?id=eltashly
-博斯无限频道,http://t.061899.xyz/tl/js/api.php?id=bswx
-博斯魅力频道,http://t.061899.xyz/tl/js/api.php?id=bsml
-智林体育频道,http://t.061899.xyz/tl/js/api.php?id=zltyt
-TRAcesp频道,http://t.061899.xyz/tl/js/api.php?id=tracesportstars
-AXN电影频道,http://t.061899.xyz/tl/js/api.php?id=axnpd
-华纳电影频道,http://t.061899.xyz/tl/js/api.php?id=hndy
-Amc电影频道,http://t.061899.xyz/tl/js/api.php?id=amczady
-CINemax频道,http://t.061899.xyz/tl/js/api.php?id=cinemax
-HBO高清频道,http://t.061899.xyz/tl/js/api.php?id=hbohd
-astroaod粤限,http://t.061899.xyz/tl/js/api.php?id=astroaod
-astroaod国限,http://t.061899.xyz/tl/js/api.php?id=astroaod1
-astr-欢喜频道,http://t.061899.xyz/tl/js/api.php?id=astrohxt
-中旺电视频道,http://t.061899.xyz/tl/js/api.php?id=zwds
-Fashionb频道,http://t.061899.xyz/tl/js/api.php?id=fashionbox
-TVN韩综频道,http://t.061899.xyz/tl/js/api.php?id=tVN
-TVN综韩频道,http://t.061899.xyz/tl/js/api.php?id=tvn
-KIX_韩综频道,http://t.061899.xyz/tl/js/api.php?id=kix
-rock娱乐频道,http://t.061899.xyz/tl/js/api.php?id=rockcjyl
-rock综艺频道,http://t.061899.xyz/tl/js/api.php?id=rockzyyl
-AXN电影频道,http://t.061899.xyz/tl/js/api.php?id=axn
-ANIMAX-频道,http://t.061899.xyz/tl/js/api.php?id=animax
-thrill电影频道,http://t.061899.xyz/tl/js/api.php?id=Thrill
-ZooMoo-频道,http://t.061899.xyz/tl/js/api.php?id=zoomoo
-Nickelod'频道,http://t.061899.xyz/tl/js/api.php?id=nickelodeon
-Nick儿童频道,http://t.061899.xyz/tl/js/api.php?id=nickjretpd
-Dream'W频道,http://t.061899.xyz/tl/js/api.php?id=dreamworks
-NBA_TV-频道,http://t.061899.xyz/tl/js/api.php?id=nbatv
 
-❤️新港澳台3,#genre#
+
+中国🇨🇳港台,#genre#
 维护Q群315674141,http://api.mytv666.top/api/hk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32
 Plus综合频效,http://iptv.4666888.xyz/iptv.php?id=20072
 pₒₚc电影频效,http://iptv.4666888.xyz/iptv.php?id=20118
