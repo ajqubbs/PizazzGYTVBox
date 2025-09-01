@@ -12,7 +12,7 @@
 中天新闻加限,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
 寰宇新闻频道,http://t.061899.xyz/tl/js/api.php?id=hyxw
 东森新闻频道,http://t.061899.xyz/tl/js/api.php?id=dsxw
-tvbs新闻频道,http://t.061899.xyz/tl/js/api.php?id=tvbsxwt
+tvbsHD频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp-yAUsElhPNjCbiSAOUjLiOkbkudHvivw41_V9zviAveL31DhdNkYM4qUki1sp17PP8lOTH2daNXUHWGT6UVyl5uBZ0__FKL0_MBECzGsVD8MEvinvV1iblOhwNTlw8_bGVKD9STorlpLcDj-lBSynK3Eda1BP0yR6WDmWVjeWxF1s7-5iT8dOxRgs8molRZj.m3u8?u=1756740867
 公视新闻频道,http://t.061899.xyz/tl/js/api.php?id=gsxww
 中视新闻频道,http://t.061899.xyz/tl/js/api.php?id=zsxw
 公视少儿,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpz1K7m55-GrTt2PVaFth_ujpMnKR4kGaAHl-sXu04Qb2aaL8B_RvX9qbukQgXjkWPY_WlfGu-PlinuaZxKfFtSvw3IHr73Dq6Vgl7NWcP8pmpFMRShE_jbjWy4mijGUdZD2AJYY5B_I--9aEj53_yoag_Z4Y2Y0WjkOIaoawP-mvzmJmgGiQqajrcnqZczdbJN8LxeNyw5sSAorJqP_Osfg.m3u8?u=1756740867
