@@ -2,16 +2,23 @@
 
 凡人🇨🇳会员,#genre#
 维护Q群315674141,CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-
+台湾是中国的,http://t.061899.xyz/tl/js/api.php?id=ztxw
 
 
 港台🇨🇳频道,#genre#
+台湾是中国的,http://t.061899.xyz/tl/js/api.php?id=ztxw
 
 
 中天新闻频道,http://t.061899.xyz/tl/js/api.php?id=ztxw
 中天新闻加限,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
 寰宇新闻频道,http://t.061899.xyz/tl/js/api.php?id=hyxw
 
+
+
+三立戏剧，http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpBpJB4HzU2veS4PTUMz0kXQbMDhSnRelHTNxdriP5Ls46f2EbDdPGFvJ2AnvIcQunZcutQiE4HMRNqvuPKHnVllunFUGMZFPWRDGnpZepNOfePjv7TYAYTzRsCSNhDG4gjMvldHVjYmxRS5nOMh74mkUnis6fDVPaeWEECBF7wx9v7C2Edv-8SSuvy_JIy8f10QS8sVeCkW7OLp0euTXpKQ.m3u8?u=1756740867
+
+三立都会,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2b00YXfxlVHGqA-0FmPXq8glApkI5Jdw1gZCpUv7NloWb2Bzz2uuTdNv7XworgGP7iPmAhApMVtPqImo7D3V2f_gawJvpYZ3QQoLYcP26KZGiMFnffodgjP0YPR59S0uDZd-K9nDXylp_E-FAshYdWAoCdYvnuajXC4SZv5MHAqNCB54Hj0rMQZIsz2OpFhN4uUgFEXF3GaYC7KjT2H7GA.m3u8?u=1756740867
+三立台湾,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2b00YXfxlVHGqA-0FmPXq4NVeWYga231dDA2IZqipIHVjyaE7SgAvtpUayyu7WJ6NlXEUicq-1YPx0OZf5cASRIiVON2PGh3-ZwxYQUFbX29Yb9LLegU81W5Wi2i6jcEC0uMwfKs2LFIbH5dIA3qhDTcQUQPgH4zw7zughxpcCTQwD6JpR5X-4PQ-QJqGogVPtZGlhDp2wgfPbyYxQx1PA.m3u8?u=1756740867
 三立新闻,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2b00YXfxlVHGqA-0FmPXq0n-JFLwSNZk4X-4XEstyad8tlr3lrNwsbUD_phOksPGot5v5SoRN029CCyplz6PfpDoohL4EjlZJqRJ40IR5j9hORimEjphfJcPxK_zh0CbD_-SlIaaYdlbSA_WL6_ELa0DzHPTt6bky-x2zg0YOM10wUQYNtiJV5PK0I5I6S4Fm6fN4oEGHlZWTyRzYSD2Ow.m3u8?u=1756740867
 东森超视，http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpu-_2AshfuKvhXzUjAdjKx41uBL5PfS5g-vPgpLQr03g840F9NqK8qNxJso7zK-FbuBX1xMYwBfr8F9_FYCv8iySZdF6D8GeLvwB7NKREtkZGlOiyDqJIs35WSQMO_YGoX3CoPLrLXMnQ_iFTLEoUR2I2yNF10yi9TzXrEMFi9uu483Q7XFTq4Kout9SNIx26lX21khxK3wcj8RQQj60LgQ.m3u8?u=1756740867
 东森幼儿频道，http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpu-_2AshfuKvhXzUjAdjKx4uV04rho7xXqy5NSLrmynyCjfaeUy8-E-dTiWVqBuCgM---1oPfcpncvq5PHltB_TDCWealujixX6lOl28pAsEO4kyn7joRhYywru6fhbmzS8HLQ1Fa91_GSn_Ok6vvWoeNHZJ2_y9L6zx0xYBl2hJN7aZuRWr08gD7mc3ICsnZY1mbpbO8GssutIRlWmlBYg.m3u8?u=1756740867
@@ -40,6 +47,9 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 
 民视频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpNf_tOIRl4pbqJdSVn9i2w81dmTh2Z-wOVHJ0Evaz0XqIKXhJGEQNifXegR_5mY9atRBSy4ha3DoIvm6jX4ptKZAZX_8pVxYEi3BMH7o_oYGSgIpxb2qn6HxpXS7d_iv_Bqc0kiDLwv9rPB0c9EoNm7BbMGwJSZzH452KjQ0CVhrEGFXg-2Vlog3kxeTgw3P_.m3u8?u=1756732445
 民视台湾频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpxx18Fp7NIU3IKLbwiRPm5M2bN8zhF1WT5npnJkNxs0Ajeebn1MYcGHA8hItFi7GSyaVBwdu19NQ51S-GrST8rMQlQHZm1BviFewS2IsR8_ijZWiuEZq25k9Csw8xAWAAkyBeg5JV2eaQ7pXj7_mR6qFiHs8-bZCf-PF-xGYrfsnvztheX9XML32W8wFspDv9vp5GKWfuGyvVW_fUUnKm6w.m3u8?u=1756732445
+民视新闻频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpvlcZTTkXl79QO5xvr2jsR4cZi0ygDFFfzYv5Cm357SZ7FJFpy_Laac1BWtNVPT7H6ONDHvSxPCy8oCoVY0XyQUDNAPPOW9GlyZ71P68dEqIZ-sePFCPyeX0TtDQwQsv0-Pa_134_8a7F5HcFx1HxbSQo5CzYwkc3WmKbCsa57uhG8weVhtzG2Bw5YJ1jL4a_xxAUS17zxj8w05c4igxHZA.m3u8?u=1756740867
+
+
 
 民视旅游频道,http://t.061899.xyz/tl/js/api.php?id=mslyt
 民视综艺频道,http://t.061899.xyz/tl/js/api.php?id=mszyt
