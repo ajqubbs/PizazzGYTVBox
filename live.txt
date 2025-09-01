@@ -168,7 +168,8 @@ MO_综合频道,http://t.061899.xyz/tl/js/api.php?id=momozht
 壹电影综频道,http://t.061899.xyz/tl/js/api.php?id=ydy
 tvbs精采频道,http://t.061899.xyz/tl/js/api.php?id=tvbsjct
 tvbs欢乐频道,http://t.061899.xyz/tl/js/api.php?id=tvbshlt
-靖天综合频道,http://t.061899.xyz/tl/js/api.php?id=jtzht
+靖天综合频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp75wxtSwgHeXzUp7QqPv66LBP9eargWgNsE25cqSIbjg0OWWkBoQGV0jh_ws93cxAkSTOaYzSXQd88Bp4msPPexqZJfztkdTDNrzdtw0xwXkpqtn5O2W_bBdxCh9r6nKPUdkklr_4aMueRNSEucsqzEQQKk4CHIEa6T8sBnkvPjr4fyWgOVPbgHlErIWmggRaAC4FlqDzSZ0BtAt4NLzzsg.m3u8?u=1756740867
+
 靖天电影频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpYchRePIJmwJECzuKP1v7wYpvkN8mX3V1U34BM954ygDohLHh4jyo1WYHWObOIochiVd9EjC0jOawJXClj6Tf7RO9oRSXYMLXe9RqFQ8S3xruAA4oDLhdwz-yo9STcXoA3C1ytdFAt0PZeyoQU3hYF64-wBN4IOi0l5et3GxlmgLIbpgN9Fs9QvUYUxBD-C5IKf5-BvWPmGtFF0mZnWMsAg.m3u8?u=1756740867
 
 靖天资讯频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpl0hIm7DTZBRvgP8Mr8k68jfvwfDzZTxePH-Nfpf2JzK3isxFIPBxh0h9OrP-xJI16sC8pe9ExSRH6q5mY2yzVgt-KtWNvmdsyKpeUbNcDVsn_FoS2crA4cEmREScfG0UleF8gAU7C_SgAlYE4Z0SQB8uKBGpqkJdKbvLusbkQYmFF95tCOMsXrq2rsYF2gDxVPwz_WFC2jTERsloBIMZ2A.m3u8?u=1756740867
