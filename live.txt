@@ -181,7 +181,8 @@ tvbs欢乐频道,http://t.061899.xyz/tl/js/api.php?id=tvbshlt
 
 
 靖洋卡通频道,http://t.061899.xyz/tl/js/api.php?id=jyktt
-靖天国际频道,http://t.061899.xyz/tl/js/api.php?id=jtgjt
+靖天国际频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp92PMMAodikp1zzfi6JDoEDMwxpyi7gXGlgJSdu34wz8Vbz_tUkJXrvbLe-7LRW-gmwzu29z4IfFzQF__VkjnEO_lHryn2gHxTaPIs3j4wOkg9YyI72xPWw38MBKIunw50qF9axuInORT3HOuqE7uoo9eJ-ZrZO0n0D_OCRBnHWF5Esu9VgFgjmY0xxupqO_pDMtwaITSGeXnj2IqdQNWFg.m3u8?u=1756740867
+
 靖天育乐频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpdWyfyk7aUxnqMS-518aShxGLQOpfAkAViZQbj26sD1y2GSn9JJ4MXDGKXs6eufYjiB7Ww-uYG5tc6YYCR8B8_N5Ty-cnLqwQk09QquEOn8RE2OoZFwrEcZC4oSk4hHpaSR2cC8-FcrLesMUDWPIEMarKgfl4yb0y83TF8Lw1KRUWOlz0tK88GbaZ6dLs99LXcRvs6nAa_P5xphYm7morkQ.m3u8?u=1756740867
 
 靖天映画频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpQBxamSfxtlUcQbUf-Z-MOf9W9yTuT-Nl0hR-TB9CWLmiXKhGYuJZLdmbsybfAdXRnOKshfejUYVyg1AZHO5Ubmu0rRo5IQw1XnORXKNlDuPPhwc46H_m75t15pAawFep_6j8Cej3-RihvcNx8PbJaCwDbEMLIZJPDSLE-CN8ZHI2eJ1xDwE2iQ-0eDbLgyyjuXdUPMO8gkGneBK7X1CdgA.m3u8?u=1756740867
