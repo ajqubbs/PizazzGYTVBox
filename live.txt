@@ -42,6 +42,7 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 八大精彩频道,http://t.061899.xyz/tl/js/api.php?id=bdjct
 八大娱乐频道,http://t.061899.xyz/tl/js/api.php?id=bdylt
 龙祥时代频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpm-ehQG4VxSgKgejylnUCa3cXOzW9wlAl_A7oUSHYiSUqFmEF-BBpLdejFb3qd1l_Ha_P-l8u3n0xvc9FLJI4QBAR3s3KaBy8HVNHGG9_gPCP72-_vTTPWps8SEpBd6qXlnl51h-KU_yukZiOhZTcXz2XkzmigiQbyJfYb2ChN8kLLg3jVhoJX8--1OkrqJH0kGW6LDr4FqpPEg_216KfsQ.m3u8?u=1756740867
+好莱坞电影,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpJJKgwSUelI3W_VMw3ToZAwbxQ_lwXRyBnPCwBzmXFfU_HUcv9svMguclI3ILY0VBmQXDtHUnV2X734zOlp4W1hT6PGl1NWKHNB_LISxyAfOubsE_r1FpWI0sQMdDN4_XyuoRC6lo2RrVpmMK9vU-P71NNcU8lyM40_BhN6TxLGDxXdLeXO2SfztCCk_sAmPJgXb8LsjiH_RcmLP5HbTNag.m3u8?u=1756740867
 
 龙华电影频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpKQADlukI8znlJy3bIrf72R5HkSZYXbL9FZgT-QHj4nsxk-8TVyFpIMM0EgpA1O4YxydpBy6Bj_MbYkzYbTucsVe5c1zBhMqi3VwaoVGBGsfKu6TlVOfojzAcppN5KnJ-rxJvTQDH66TVYVvHZet1CqaB0LMYcUqmnHgd6t822xP6IS-dEndgkH0HKw5kzzwkiNRmBswpzRsvED4LPro2GA.m3u8?u=1756732445
 
