@@ -157,8 +157,8 @@ ELTA体育4,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-
 
 龙华卡通频道,http://t.061899.xyz/tl/js/api.php?id=lhkt
 龙华经典频道,http://t.061899.xyz/tl/js/api.php?id=lhjd
-纬来精彩频道,http://t.061899.xyz/tl/js/api.php?id=wljc
-东森幼幼频道,http://t.061899.xyz/tl/js/api.php?id=dsyy
+
+
 MO_亲子频道,http://t.061899.xyz/tl/js/api.php?id=momoqzt
 MO_综合频道,http://t.061899.xyz/tl/js/api.php?id=momozht
 闽南戏剧频道,http://t.061899.xyz/tl/js/api.php?id=twxj
