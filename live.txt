@@ -186,7 +186,9 @@ tvbs欢乐频道,http://t.061899.xyz/tl/js/api.php?id=tvbshlt
 
 靖天映画频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpQBxamSfxtlUcQbUf-Z-MOf9W9yTuT-Nl0hR-TB9CWLmiXKhGYuJZLdmbsybfAdXRnOKshfejUYVyg1AZHO5Ubmu0rRo5IQw1XnORXKNlDuPPhwc46H_m75t15pAawFep_6j8Cej3-RihvcNx8PbJaCwDbEMLIZJPDSLE-CN8ZHI2eJ1xDwE2iQ-0eDbLgyyjuXdUPMO8gkGneBK7X1CdgA.m3u8?u=1756740867
 
-靖天欢乐频道,http://t.061899.xyz/tl/js/api.php?id=jthlt
+靖天欢乐频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpKZSmN-o2fTrMM4V81arQ8p2hqTKDGB-U8a0dc_IRgRSSuCmIxJijTgzX5LetIRsvjtJ7U6N90Q7YAwdTZUBe3iHNZFp0LVwe-595asQiB5AgtqVFGrylfNk8lbFT3FDu1lx55s3VCuParFaHWqP6uinMy3vHWxWSOIYF8jtIpuLV1WinX1Ybxic96An6QMihCFpXtgIFVu3g9lHBb2mrIw.m3u8?u=1756740867
+
+
 华艺综合频道,http://t.061899.xyz/tl/js/api.php?id=mbchyzht
 LUXE_TV频道,http://t.061899.xyz/tl/js/api.php?id=luxetv
 亚洲旅游频道,http://t.061899.xyz/tl/js/api.php?id=yzlyt
