@@ -89,6 +89,9 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 
 中视经典频道,http://t.061899.xyz/tl/js/api.php?id=zsjd
 中视菁采频道,http://t.061899.xyz/tl/js/api.php?id=zsjc
+
+中天亚洲频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpNVrsLspPYPL6YNjrsRoAUXlbe5VaQO_YpMuyY5HLDJ_-Aua8bzbt6qPuLCqgp0x55EzrmFiS9TX5PpdYQ4ugJNDCqudTLu86nDrXZbiOv6bdz46X-Tzzf7b4DOys8P1BmqYxZMBxjYL_JN2KULgJffwPBnn9xazQ6FG7JBvtqJCL_EnOFqESQURQP8UYNim5.m3u8?u=1756740867
+
 中天综合频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp-yAUsElhPNjCbiSAOUjLiAuMPyflhLHGCh1xpVZG1eD21vaVTGryK6PUbWJO6OIa2MpFET5VWyogWgmUyOeYcGu0JGNMDbe_cCRWBe17thN8xC6xaEiFH1Sml5HIffI5P5DkjlqQrxnDdOoMy2I5mHOnqYWRfSZPdje9iTIcZokuLk7QqF7WYFotMTaG0aJc_MLr1HBCArdZSuuAwKK5ow.m3u8?u=1756740867
 
 中天娱乐频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYp2b00YXfxlVHGqA-0FmPXqxU1VluXp7EEjdBQALgcxBW_hFmttdtNogPNEo52WHusdp9wzI36ETDDehjx5BDmwQUKDmsWImVzzxYb5BKUVOIYX0ySBgyyCvHD3mD983wcVDO5D5SkMRwoDg6TrhjZYLttqUmNHqOLJ2pDEJv499m_ZMeAV0p9-6Fe0BixaQBcztgefgB1omAQNuEmSUcvBQ.m3u8?u=1756740867
