@@ -53,6 +53,9 @@ tvbs闽南频道,http://t.061899.xyz/tl/js/api.php?id=tvbshd
 
 民视旅游频道,http://t.061899.xyz/tl/js/api.php?id=mslyt
 民视综艺频道,http://t.061899.xyz/tl/js/api.php?id=mszyt
+
+中视新闻频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpba6bqI8ShX9Qm4XELL56345P8ZBXsks0jpvtAjnR8EKyUVrwrQWxzsOa-HJgCh2EY3SAzq-EhGdgJjyKdb1pAV7G6c81kP85pMmyyMtaNXF-ahI15nNxl1VHS9n1eLW0YajNtZAtJAPmPuhW5_U0YkAfzg3XF-bVgKkjrFpSmB85Pnmnx2xaNkBLKqIiMf7Z6WDng2JspOy4VGy-2RLeZA.m3u8?u=1756740867
+
 中视经典频道,http://t.061899.xyz/tl/js/api.php?id=zsjd
 中视菁采频道,http://t.061899.xyz/tl/js/api.php?id=zsjc
 中天综合频道,http://t.061899.xyz/tl/js/api.php?id=ztzh
