@@ -143,6 +143,10 @@ ELTA体育4,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-
 
 龙华电影频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpKQADlukI8znlJy3bIrf72R5HkSZYXbL9FZgT-QHj4nsxk-8TVyFpIMM0EgpA1O4YxydpBy6Bj_MbYkzYbTucsVe5c1zBhMqi3VwaoVGBGsfKu6TlVOfojzAcppN5KnJ-rxJvTQDH66TVYVvHZet1CqaB0LMYcUqmnHgd6t822xP6IS-dEndgkH0HKw5kzzwkiNRmBswpzRsvED4LPro2GA.m3u8?u=1756732445
 
+龙华电影,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpKQADlukI8znlJy3bIrf72R5HkSZYXbL9FZgT-QHj4nsxk-8TVyFpIMM0EgpA1O4YwS3K-8waBxpaR_SHXRzOk-SFj-g9ADo67r1sXMPn0aQMvNy2GL1Qajg1O6xb2P2mcb3wOSBniNUJoEsFfo7Sczg-eUu7TnTtq4e1y7R0PYTKx4Qpxbucmw8YhNfAOYjBBuUcx-5xSLZUm4tb1KcItA.m3u8?u=1756740867
+
+
+
 龙华偶像频道,http://t.061899.xyz/tl/js/api.php?id=lhox
 龙华戏剧频道,http://t.061899.xyz/tl/js/api.php?id=lhxj
 龙华日韩频道,http://t.061899.xyz/tl/js/api.php?id=lhrh
