@@ -171,7 +171,8 @@ tvbs欢乐频道,http://t.061899.xyz/tl/js/api.php?id=tvbshlt
 靖天综合频道,http://t.061899.xyz/tl/js/api.php?id=jtzht
 靖天电影频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpYchRePIJmwJECzuKP1v7wYpvkN8mX3V1U34BM954ygDohLHh4jyo1WYHWObOIochiVd9EjC0jOawJXClj6Tf7RO9oRSXYMLXe9RqFQ8S3xruAA4oDLhdwz-yo9STcXoA3C1ytdFAt0PZeyoQU3hYF64-wBN4IOi0l5et3GxlmgLIbpgN9Fs9QvUYUxBD-C5IKf5-BvWPmGtFF0mZnWMsAg.m3u8?u=1756740867
 
-靖天资讯频道,http://t.061899.xyz/tl/js/api.php?id=jtzxt
+靖天资讯频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpl0hIm7DTZBRvgP8Mr8k68jfvwfDzZTxePH-Nfpf2JzK3isxFIPBxh0h9OrP-xJI16sC8pe9ExSRH6q5mY2yzVgt-KtWNvmdsyKpeUbNcDVsn_FoS2crA4cEmREScfG0UleF8gAU7C_SgAlYE4Z0SQB8uKBGpqkJdKbvLusbkQYmFF95tCOMsXrq2rsYF2gDxVPwz_WFC2jTERsloBIMZ2A.m3u8?u=1756740867
+
 靖天戏剧频道,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-b49-_0hGlkzutMNtO1DApPYpwtQMOALHt8NxMWi3i1uNd-Gxa8bj0OPRfRxWHCWOEyzebZhKZh7W6Ezjft3PjWWRg4x3DXADoP3zVn5m3tz4J-793GWWkKMc5MR4KGOSS9JQX1Dp7vXnJu_FHZq6lK_NWYLpcxxG90rNuG2rNXU1R1lfCAmJXk6qNW37j6Y_7yGzFbVw_lMJjOu-3JizXe1qepSnnrZBVhJpGiPxNDCkRA.m3u8?u=1756740867
 
 靖洋戏剧频道,http://t.061899.xyz/tl/js/api.php?id=jyxjt
