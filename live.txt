@@ -1498,7 +1498,7 @@ CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-松鼠🍎彩虹,#genre#
+松鼠🍎彩虹_00,#genre#
 
 极限,http://devpulllive.xylink.com:80/live/3524e3b898cb781c53bef362571df32f.flv
 happy,http://devpulllive.xylink.com:80/live/d5322ab790b66fb32e073617ab13975c.flv
