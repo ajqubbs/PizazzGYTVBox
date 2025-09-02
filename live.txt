@@ -180,6 +180,116 @@ ELTA体育4,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-
 
 中国🇨🇳港台,#genre#
 维护Q群315674141,http://api.mytv666.top/api/hk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32
+
+
+翡翠台,https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
+翡翠台,https://cdn6.946985.qzz.io/live/fct/stream.m3u8
+无线新闻台,https://cdn6.946985.qzz.io/live/wxxw/stream.m3u8
+无线新闻台,https://v2h.946985.qzz.io/live/wxxw/stream.m3u8
+TVB PLUS,https://cdn.946985.qzz.io/live/tvbp/stream.m3u8
+明珠台,https://o12.946985.qzz.io/hls/mzt/playlist.m3u8
+明珠台,https://cdn.946985.qzz.io/live/mzt/stream.m3u8
+HOY TV,https://cdn6.946985.qzz.io/live/hoy/stream.m3u8
+HOY TV,https://cdn.946985.qzz.io/live/hoy/stream.m3u8
+VIUTV,https://cdn.946985.qzz.io/live/viu/stream.m3u8
+NOW新闻台,https://cdn.946985.qzz.io/live/now/stream.m3u8
+TV 31,https://cdn.946985.qzz.io/live/rthk31/stream.m3u8
+TV 32,https://cdn.946985.qzz.io/live/rthk32/stream.m3u8
+澳视澳门,https://cdn.946985.qzz.io/live/asam/stream.m3u8
+澳视卫星,https://cdn.946985.qzz.io/live/as/stream.m3u8
+凤凰卫视中文台,https://cdn.946985.qzz.io/live/fhzw/stream.m3u8
+凤凰卫视资讯台,https://cdn6.946985.qzz.io/live/fhzx/stream.m3u8
+凤凰卫视香港台,https://cdn6.946985.qzz.io/live/fhhk/stream.m3u8
+广东珠江,https://cdn2.946985.qzz.io/live/gdzj/stream.m3u8
+广东体育,https://cdn2.946985.qzz.io/live/gdty/stream.m3u8
+CH5,https://cdn6.946985.qzz.io/live/ch5/stream.m3u8
+CH8,https://cdn6.946985.qzz.io/live/ch8/stream.m3u8
+CHU,https://cdn6.946985.qzz.io/live/chu/stream.m3u8
+龙华电影HD,https://cdn8.946985.qzz.io/live/lhdy/stream.m3u8
+龙华经典HD,https://cdn8.946985.qzz.io/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.946985.qzz.io/live/lhkt/stream.m3u8
+龙华偶像HD,https://cdn8.946985.qzz.io/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.946985.qzz.io/live/lhrh/stream.m3u8
+龙华戏剧HD,https://cdn8.946985.qzz.io/live/lhxj/stream.m3u8
+龙华洋片HD,https://cdn8.946985.qzz.io/live/lhyp/stream.m3u8
+TVB1,https://cdn6.946985.qzz.io/live/tvb1/stream.m3u8
+TVBJ1,https://cdn6.946985.qzz.io/live/j1/stream.m3u8
+娱乐新闻台,https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
+翡翠剧集台,https://cdn6.946985.qzz.io/live/tvbd/stream.m3u8
+翡翠台,https://v2h.946985.qzz.io/live/hlfct/stream.m3u8
+TVB亚洲武侠,https://v2h.946985.qzz.io/live/yzwx/stream.m3u8
+TVB星河,https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
+重温经典,https://cdn6.946985.qzz.io/live/cwjd/stream.m3u8
+CCTV1,https://cdn.946985.qzz.io/live/cctv1/stream.m3u8
+CCTV2,https://cdn3.946985.qzz.io/live/cctv2/stream.m3u8
+CCTV4,https://cdn3.946985.qzz.io/live/cctv4/stream.m3u8
+CCTV9,https://cdn3.946985.qzz.io/live/cctv9/stream.m3u8
+CCTV13,https://cdn3.946985.qzz.io/live/cctv13/stream.m3u8
+TVB星河,https://smt.946985.qzz.io/smt3.2.1.php?id=Xinhe
+娱乐新闻台,https://smt.946985.qzz.io/smt3.2.1.php?id=Tvbentertainment
+美亚电影,https://smt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+天映马来西亚,https://smt.946985.qzz.io/smt3.2.1.php?id=Celestial
+天映经典,https://smt.946985.qzz.io/smt3.2.1.php?id=Celestial2
+Astro AOD,https://smt.946985.qzz.io/smt3.2.1.php?id=Aodhd
+Astro AEC,https://smt.946985.qzz.io/smt3.2.1.php?id=AEC
+爱奇艺,https://smt.946985.qzz.io/smt3.2.1.php?id=Qiyi
+Astro QJ,https://smt.946985.qzz.io/smt3.2.1.php?id=Quanjia
+Astro欢喜台,https://smt.946985.qzz.io/smt3.2.1.php?id=Huahee
+八度空间,https://smt.946985.qzz.io/smt3.2.1.php?id=TV8
+FUN探索娱乐台,https://php.946985.xyz/4gtv.php?ch=4gtv-live011
+幸福空间居家台,https://php.946985.xyz/4gtv.php?ch=4gtv-live206
+LOVENATURE,https://php.946985.xyz/4gtv.php?ch=4gtv-live208
+历史频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live026
+ELTA生活旅遊,https://php.946985.xyz/4gtv.php?ch=4gtv-live120
+GlobalTrekker,https://php.946985.xyz/4gtv.php?ch=4gtv-live112
+原住民族电视台,https://php.946985.xyz/4gtv.php?ch=4gtv-live014
+车迷TV,https://php.946985.xyz/4gtv.php?ch=4gtv-live201
+滚动力ROLLOR,https://php.946985.xyz/4gtv.php?ch=4gtv-live012
+大爱电视,https://php.946985.xyz/4gtv.php?ch=4gtv-live007
+三立综合台,https://php.946985.xyz/4gtv.php?ch=4gtv-live207
+新唐人亞太台,https://php.946985.xyz/4gtv.php?ch=4gtv-live050
+LIVEABC互动英语频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live030
+NickJr.,https://php.946985.xyz/4gtv.php?ch=4gtv-live032
+NICKELODEON,https://php.946985.xyz/4gtv.php?ch=4gtv-live105
+DREAMWORKS,https://php.946985.xyz/4gtv.php?ch=4gtv-live017
+MOMO亲子台,https://php.946985.xyz/4gtv.php?ch=4gtv-live107
+三立iNEWS,https://php.946985.xyz/4gtv.php?ch=4gtv-live089
+BLOOMBERG,https://php.946985.xyz/4gtv.php?ch=4gtv-live059
+SBN全球财经台,https://php.946985.xyz/4gtv.php?ch=4gtv-live060
+NHK新闻资讯台HD,https://php.946985.xyz/4gtv.php?ch=4gtv-live168
+ROCKEntertainment,https://php.946985.xyz/4gtv.php?ch=4gtv-live080
+LIFETIME,https://php.946985.xyz/4gtv.php?ch=4gtv-live029
+电影原声台CMUSIC,https://php.946985.xyz/4gtv.php?ch=4gtv-live031
+MTV,https://php.946985.xyz/4gtv.php?ch=4gtv-live025
+INULTRA,https://php.946985.xyz/4gtv.php?ch=4gtv-live096
+LUXETV,https://php.946985.xyz/4gtv.php?ch=4gtv-live121
+TV5MONDE,https://php.946985.xyz/4gtv.php?ch=4gtv-live122
+MAGELLANTV频道 (麦哲伦频道) ,https://php.946985.xyz/4gtv.php?ch=4gtv-live123
+HITS频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live620
+霹雳布袋戏,https://php.946985.xyz/4gtv.php?ch=4gtv-live145
+CI罪案偵查頻道,https://php.946985.xyz/4gtv.php?ch=4gtv-live027
+金光布袋戏,https://php.946985.xyz/4gtv.php?ch=4gtv-live144
+ROCKAction,https://php.946985.xyz/4gtv.php?ch=4gtv-live138
+CINEMAWORLD,https://php.946985.xyz/4gtv.php?ch=4gtv-live069
+大爱二台,https://php.946985.xyz/4gtv.php?ch=4gtv-live106
+人间卫视,https://php.946985.xyz/4gtv.php?ch=4gtv-live008
+FRANCE24英文台,https://php.946985.xyz/4gtv.php?ch=4gtv-live146
+半岛国际新闻台,https://php.946985.xyz/4gtv.php?ch=4gtv-live157
+CNBC,https://php.946985.xyz/4gtv.php?ch=4gtv-live130
+DW德国之声,https://php.946985.xyz/4gtv.php?ch=4gtv-live071
+TVBS综艺台,https://php.946985.xyz/4gtv.php?ch=4gtv-live087
+TVBS台剧台,https://php.946985.xyz/4gtv.php?ch=4gtv-live088
+经典电影台,https://php.946985.xyz/4gtv.php?ch=4gtv-live021
+经典卡通台,https://php.946985.xyz/4gtv.php?ch=4gtv-live022
+精选动漫台,https://php.946985.xyz/4gtv.php?ch=4gtv-live024
+戲劇免費看1台,https://php.946985.xyz/4gtv.php?ch=4gtv-live010
+
+
+
+
+
+
+
 Plus综合频效,http://iptv.4666888.xyz/iptv.php?id=20072
 pₒₚc电影频效,http://iptv.4666888.xyz/iptv.php?id=20118
 CM+电影频效,http://iptv.4666888.xyz/iptv.php?id=20278
