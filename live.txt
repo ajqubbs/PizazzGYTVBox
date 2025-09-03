@@ -184,190 +184,23 @@ ELTA体育4,http://8.218.84.3:8885/live/NNqVCRZHgOVtz_eyC2zGL_ZX7vpkqw9s47LkqDn-
 维护Q群315674141,http://api.mytv666.top/api/hk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32
 
 
-翡翠台,https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
-翡翠台,https://cdn6.946985.qzz.io/live/fct/stream.m3u8
-无线新闻台,https://cdn6.946985.qzz.io/live/wxxw/stream.m3u8
-无线新闻台,https://v2h.946985.qzz.io/live/wxxw/stream.m3u8
-TVB PLUS,https://cdn.946985.qzz.io/live/tvbp/stream.m3u8
-明珠台,https://o12.946985.qzz.io/hls/mzt/playlist.m3u8
-明珠台,https://cdn.946985.qzz.io/live/mzt/stream.m3u8
-HOY TV,https://cdn6.946985.qzz.io/live/hoy/stream.m3u8
-HOY TV,https://cdn.946985.qzz.io/live/hoy/stream.m3u8
-VIUTV,https://cdn.946985.qzz.io/live/viu/stream.m3u8
-NOW新闻台,https://cdn.946985.qzz.io/live/now/stream.m3u8
-TV 31,https://cdn.946985.qzz.io/live/rthk31/stream.m3u8
-TV 32,https://cdn.946985.qzz.io/live/rthk32/stream.m3u8
-澳视澳门,https://cdn.946985.qzz.io/live/asam/stream.m3u8
-澳视卫星,https://cdn.946985.qzz.io/live/as/stream.m3u8
-凤凰卫视中文台,https://cdn.946985.qzz.io/live/fhzw/stream.m3u8
-凤凰卫视资讯台,https://cdn6.946985.qzz.io/live/fhzx/stream.m3u8
-凤凰卫视香港台,https://cdn6.946985.qzz.io/live/fhhk/stream.m3u8
-广东珠江,https://cdn2.946985.qzz.io/live/gdzj/stream.m3u8
-广东体育,https://cdn2.946985.qzz.io/live/gdty/stream.m3u8
-CH5,https://cdn6.946985.qzz.io/live/ch5/stream.m3u8
-CH8,https://cdn6.946985.qzz.io/live/ch8/stream.m3u8
-CHU,https://cdn6.946985.qzz.io/live/chu/stream.m3u8
-龙华电影HD,https://cdn8.946985.qzz.io/live/lhdy/stream.m3u8
-龙华经典HD,https://cdn8.946985.qzz.io/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.946985.qzz.io/live/lhkt/stream.m3u8
-龙华偶像HD,https://cdn8.946985.qzz.io/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.946985.qzz.io/live/lhrh/stream.m3u8
-龙华戏剧HD,https://cdn8.946985.qzz.io/live/lhxj/stream.m3u8
-龙华洋片HD,https://cdn8.946985.qzz.io/live/lhyp/stream.m3u8
-TVB1,https://cdn6.946985.qzz.io/live/tvb1/stream.m3u8
-TVBJ1,https://cdn6.946985.qzz.io/live/j1/stream.m3u8
-娱乐新闻台,https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
-翡翠剧集台,https://cdn6.946985.qzz.io/live/tvbd/stream.m3u8
-翡翠台,https://v2h.946985.qzz.io/live/hlfct/stream.m3u8
-TVB亚洲武侠,https://v2h.946985.qzz.io/live/yzwx/stream.m3u8
-TVB星河,https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
-
-
-TVB星河,https://smt.946985.qzz.io/smt3.2.1.php?id=Xinhe
-娱乐新闻台,https://smt.946985.qzz.io/smt3.2.1.php?id=Tvbentertainment
-美亚电影,https://smt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
-天映马来西亚,https://smt.946985.qzz.io/smt3.2.1.php?id=Celestial
-天映经典,https://smt.946985.qzz.io/smt3.2.1.php?id=Celestial2
-Astro AOD,https://smt.946985.qzz.io/smt3.2.1.php?id=Aodhd
-Astro AEC,https://smt.946985.qzz.io/smt3.2.1.php?id=AEC
-爱奇艺,https://smt.946985.qzz.io/smt3.2.1.php?id=Qiyi
-Astro QJ,https://smt.946985.qzz.io/smt3.2.1.php?id=Quanjia
-Astro欢喜台,https://smt.946985.qzz.io/smt3.2.1.php?id=Huahee
-八度空间,https://smt.946985.qzz.io/smt3.2.1.php?id=TV8
-FUN探索娱乐台,https://php.946985.xyz/4gtv.php?ch=4gtv-live011
-幸福空间居家台,https://php.946985.xyz/4gtv.php?ch=4gtv-live206
-LOVENATURE,https://php.946985.xyz/4gtv.php?ch=4gtv-live208
-历史频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live026
-ELTA生活旅遊,https://php.946985.xyz/4gtv.php?ch=4gtv-live120
-GlobalTrekker,https://php.946985.xyz/4gtv.php?ch=4gtv-live112
-原住民族电视台,https://php.946985.xyz/4gtv.php?ch=4gtv-live014
-车迷TV,https://php.946985.xyz/4gtv.php?ch=4gtv-live201
-滚动力ROLLOR,https://php.946985.xyz/4gtv.php?ch=4gtv-live012
-大爱电视,https://php.946985.xyz/4gtv.php?ch=4gtv-live007
-三立综合台,https://php.946985.xyz/4gtv.php?ch=4gtv-live207
-新唐人亞太台,https://php.946985.xyz/4gtv.php?ch=4gtv-live050
-LIVEABC互动英语频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live030
-NickJr.,https://php.946985.xyz/4gtv.php?ch=4gtv-live032
-NICKELODEON,https://php.946985.xyz/4gtv.php?ch=4gtv-live105
-DREAMWORKS,https://php.946985.xyz/4gtv.php?ch=4gtv-live017
-MOMO亲子台,https://php.946985.xyz/4gtv.php?ch=4gtv-live107
-三立iNEWS,https://php.946985.xyz/4gtv.php?ch=4gtv-live089
-BLOOMBERG,https://php.946985.xyz/4gtv.php?ch=4gtv-live059
-SBN全球财经台,https://php.946985.xyz/4gtv.php?ch=4gtv-live060
-NHK新闻资讯台HD,https://php.946985.xyz/4gtv.php?ch=4gtv-live168
-ROCKEntertainment,https://php.946985.xyz/4gtv.php?ch=4gtv-live080
-LIFETIME,https://php.946985.xyz/4gtv.php?ch=4gtv-live029
-电影原声台CMUSIC,https://php.946985.xyz/4gtv.php?ch=4gtv-live031
-MTV,https://php.946985.xyz/4gtv.php?ch=4gtv-live025
-INULTRA,https://php.946985.xyz/4gtv.php?ch=4gtv-live096
-LUXETV,https://php.946985.xyz/4gtv.php?ch=4gtv-live121
-TV5MONDE,https://php.946985.xyz/4gtv.php?ch=4gtv-live122
-MAGELLANTV频道 (麦哲伦频道) ,https://php.946985.xyz/4gtv.php?ch=4gtv-live123
-HITS频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live620
-霹雳布袋戏,https://php.946985.xyz/4gtv.php?ch=4gtv-live145
-CI罪案偵查頻道,https://php.946985.xyz/4gtv.php?ch=4gtv-live027
-金光布袋戏,https://php.946985.xyz/4gtv.php?ch=4gtv-live144
-ROCKAction,https://php.946985.xyz/4gtv.php?ch=4gtv-live138
-CINEMAWORLD,https://php.946985.xyz/4gtv.php?ch=4gtv-live069
-大爱二台,https://php.946985.xyz/4gtv.php?ch=4gtv-live106
-人间卫视,https://php.946985.xyz/4gtv.php?ch=4gtv-live008
-FRANCE24英文台,https://php.946985.xyz/4gtv.php?ch=4gtv-live146
-半岛国际新闻台,https://php.946985.xyz/4gtv.php?ch=4gtv-live157
-CNBC,https://php.946985.xyz/4gtv.php?ch=4gtv-live130
-DW德国之声,https://php.946985.xyz/4gtv.php?ch=4gtv-live071
-TVBS综艺台,https://php.946985.xyz/4gtv.php?ch=4gtv-live087
-TVBS台剧台,https://php.946985.xyz/4gtv.php?ch=4gtv-live088
-经典电影台,https://php.946985.xyz/4gtv.php?ch=4gtv-live021
-经典卡通台,https://php.946985.xyz/4gtv.php?ch=4gtv-live022
-精选动漫台,https://php.946985.xyz/4gtv.php?ch=4gtv-live024
-戲劇免費看1台,https://php.946985.xyz/4gtv.php?ch=4gtv-live010
+4K,http://106.53.99.30/tv/api.php?id=hebtv4k 28AI赛马,http://iptv.4666888.xyz/iptv.php?id=20126 88赛马,http://iptv.4666888.xyz/iptv.php?id=20123 AXN电影,http://iptv.4666888.xyz/iptv.php?id=20254 Animaxa动漫,http://iptv.4666888.xyz/iptv.php?id=20258 ASIA亚洲旅游,http://iptv.4666888.xyz/iptv.php?id=20273 BBC_Earth,http://iptv.4666888.xyz/iptv.php?id=20279 BBC_Lifestyle,http://iptv.4666888.xyz/iptv.php?id=20280 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262 CINEMAX,http://iptv.4666888.xyz/iptv.php?id=20256 HBO,http://iptv.4666888.xyz/iptv.php?id=20249 HBO_HD,http://iptv.4666888.xyz/iptv.php?id=20250 HBO_Family,http://iptv.4666888.xyz/iptv.php?id=20251 HBO_HITS,http://iptv.4666888.xyz/iptv.php?id=20252 HBO-Ignature,http://iptv.4666888.xyz/iptv.php?id=20253 History,http://iptv.4666888.xyz/iptv.php?id=20283 HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8 Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288 Hub娱家,http://iptv.4666888.xyz/iptv.php?id=20287 KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290 MDAX,http://iptv.4666888.xyz/iptv.php?id=20261 MTV_Livea,http://iptv.4666888.xyz/iptv.php?id=20276 MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111 MYTV_SUPER少儿,http://iptv.4666888.xyz/iptv.php?id=20110 MYTV_SUPER亚洲剧,http://iptv.4666888.xyz/iptv.php?id=20109 MYTV_SUPER经典,http://iptv.4666888.xyz/iptv.php?id=20107 MYTV_SUPER粤语片,http://iptv.4666888.xyz/iptv.php?id=20112 MYTV_SUPER戏曲,http://iptv.4666888.xyz/iptv.php?id=20113 MYTV_SUPER黄金华剧,http://iptv.4666888.xyz/iptv.php?id=20108 MYTV_SUPER黄金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106 ONE电影,http://iptv.4666888.xyz/iptv.php?id=20255 PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118 ROCK Entertainment,http://iptv.4666888.xyz/iptv.php?id=20275 RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080 Star Movies,http://iptv.4666888.xyz/iptv.php?id=20257 Thrill,http://iptv.4666888.xyz/iptv.php?id=20259 TLC亚洲旅游,http://iptv.4666888.xyz/iptv.php?id=20272 TVB-EYT,http://iptv.4666888.xyz/iptv.php?id=20133 TVB-Music,http://iptv.4666888.xyz/iptv.php?id=20134 TVB-Sports,http://iptv.4666888.xyz/iptv.php?id=20135 TVB-劇場,http://iptv.4666888.xyz/iptv.php?id=20136 TVB-煲劇,http://iptv.4666888.xyz/iptv.php?id=20137 TVB-獎門人,http://iptv.4666888.xyz/iptv.php?id=20138 TVB-話當年,http://iptv.4666888.xyz/iptv.php?id=20139 TVB-識嘆,http://iptv.4666888.xyz/iptv.php?id=20140 TVB-識食,http://iptv.4666888.xyz/iptv.php?id=20141 TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142 TVBJ1,http://iptv.4666888.xyz/iptv.php?id=20096 TVB千禧经典,http://iptv.4666888.xyz/iptv.php?id=20105 TVB星河(国),http://iptv.4666888.xyz/iptv.php?id=20102 TVB星河(粤),http://iptv.4666888.xyz/iptv.php?id=20101 TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066 TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067 
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv.php?id=20099 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075 WWE摔胶,http://iptv.4666888.xyz/iptv.php?id=20269 iNews 
+新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8 
+七星电视,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8 三立iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170 三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202 三立戏剧,http://iptv.4666888.xyz/iptv.php?id=20203 三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169 三立都会,http://iptv.4666888.xyz/iptv.php?id=20205 三立综合,http://iptv.4666888.xyz/iptv.php?id=20204 中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181 
+中天亚洲,http://iptv.4666888.xyz/iptv.php?id=20196 中天娱乐,http://iptv.4666888.xyz/iptv.php?id=20194 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173 中天综合,http://iptv.4666888.xyz/iptv.php?id=20195 中旺电视,http://iptv.4666888.xyz/iptv.php?id=20187 中视,http://iptv.4666888.xyz/iptv.php?id=20183 中视经典,http://iptv.4666888.xyz/iptv.php?id=20221 中视菁采,http://iptv.4666888.xyz/iptv.php?id=20222 中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171 中山电视,http://iptv.4666888.xyz/iptv.php?id=20187 乐活电视,http://iptv.4666888.xyz/iptv.php?id=20187 亚洲美食,http://iptv.4666888.xyz/iptv.php?id=20270 京视剧场,http://iptv.4666888.xyz/iptv.php?id=20221 佳乐电视,http://iptv.4666888.xyz/iptv.php?id=20289 公视,http://iptv.4666888.xyz/iptv.php?id=20185 公视戏剧,http://iptv.4666888.xyz/iptv.php?id=20292 创世电视,http://iptv.4666888.xyz/iptv.php?id=20119 华艺中文,http://iptv.4666888.xyz/iptv.php?id=20223 华视,http://iptv.4666888.xyz/iptv.php?id=20184 华视新闻,http://iptv.4666888.xyz/iptv.php?id=20209 厦门卫视,http://iptv.4666888.xyz/iptv.php?id=20187 台视,http://iptv.4666888.xyz/iptv.php?id=20186 台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172 台视综合,http://iptv.4666888.xyz/iptv.php?id=20220 吃喝玩乐,http://iptv.4666888.xyz/iptv.php?id=20140 合家欢,http://iptv.4666888.xyz/iptv.php?id=20140 嘻嘻哈哈,http://iptv.4666888.xyz/iptv.php?id=20140 四季电视,http://iptv.4666888.xyz/iptv.php?id=20187 回放剧场,http://iptv.4666888.xyz/iptv.php?id=20136 国际电影,http://iptv.4666888.xyz/iptv.php?id=20254 地方戏剧,http://iptv.4666888.xyz/iptv.php?id=20203 城市电视,http://iptv.4666888.xyz/iptv.php?id=20187 好消息,http://iptv.4666888.xyz/iptv.php?id=20119 好莱乌电影,http://iptv.4666888.xyz/iptv.php?id=20248 
+娱乐八卦,http://iptv.4666888.xyz/iptv.php?id=20189 婆媳剧场,http://iptv.4666888.xyz/iptv.php?id=20203 家庭剧场,http://iptv.4666888.xyz/iptv.php?id=20203 寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176 寰宇新闻台湾,http://iptv.4666888.xyz/iptv.php?id=20293 
+小吃美食,http://iptv.4666888.xyz/iptv.php?id=20270 少儿动画,http://iptv.4666888.xyz/iptv.php?id=20110 年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178 开心综艺,http://iptv.4666888.xyz/iptv.php?id=20189 彩民天地,http://iptv.4666888.xyz/iptv.php?id=20123 得意生活,http://iptv.4666888.xyz/iptv.php?id=20140 必看电影,http://iptv.4666888.xyz/iptv.php?id=20248 快乐购,http://iptv.4666888.xyz/iptv.php?id=20189 怀旧剧场,http://iptv.4666888.xyz/iptv.php?id=20136 恋爱综艺,http://iptv.4666888.xyz/iptv.php?id=20189 戏剧大全,http://iptv.4666888.xyz/iptv.php?id=20203 我爱看电影,http://iptv.4666888.xyz/iptv.php?id=20248 
+打拼人生,http://iptv.4666888.xyz/iptv.php?id=20140 投注指南,http://iptv.4666888.xyz/iptv.php?id=20123 搞笑综艺,http://iptv.4666888.xyz/iptv.php?id=20189 新闻快报,http://iptv.4666888.xyz/iptv.php?id=20171 星光视界,http://iptv.4666888.xyz/iptv.php?id=20121 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8 春秋剧场,http://iptv.4666888.xyz/iptv.php?id=20203 晚间新闻,http://iptv.4666888.xyz/iptv.php?id=20171 最新电影,http://iptv.4666888.xyz/iptv.php?id=20248 有趣综艺,http://iptv.4666888.xyz/iptv.php?id=20189 本地新闻,http://iptv.4666888.xyz/iptv.php?id=20171 极限运动,http://iptv.4666888.xyz/iptv.php?id=20269 欢乐剧场,http://iptv.4666888.xyz/iptv.php?id=20203 民生新闻,http://iptv.4666888.xyz/iptv.php?id=20171 民视,http://iptv.4666888.xyz/iptv.php?id=20182
+民视旅遊,http://iptv.4666888.xyz/iptv.php?id=20218 民视戏剧,http://iptv.4666888.xyz/iptv.php?id=20219 民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177 民视台湾,http://iptv.4666888.xyz/iptv.php?id=20216 民事第一,http://iptv.4666888.xyz/iptv.php?id=20214 民事第一,http://iptv.4666888.xyz/iptv.php?id=20215 民事综艺,http://iptv.4666888.xyz/iptv.php?id=20217 永续生活,http://iptv.4666888.xyz/iptv.php?id=20140 江湖恩怨,http://iptv.4666888.xyz/iptv.php?id=20203 泉州卫视,http://iptv.4666888.xyz/iptv.php?id=20187 流行音乐,http://iptv.4666888.xyz/iptv.php?id=20134 海峡卫视,http://iptv.4666888.xyz/iptv.php?id=20187 深圳卫视,http://iptv.4666888.xyz/iptv.php?id=20187 温情剧场,http://iptv.4666888.xyz/iptv.php?id=20203 游戏竞技,http://iptv.4666888.xyz/iptv.php?id=20269 演唱会,http://iptv.4666888.xyz/iptv.php?id=20134 翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8 
+电影精选,http://iptv.4666888.xyz/iptv.php?id=20248 电影频道,http://iptv.4666888.xyz/iptv.php?id=20248 百老汇,http://iptv.4666888.xyz/iptv.php?id=20248 相亲交友,http://iptv.4666888.xyz/iptv.php?id=20189 看看新闻,http://iptv.4666888.xyz/iptv.php?id=20171 真实故事,http://iptv.4666888.xyz/iptv.php?id=20140 知识科普,http://iptv.4666888.xyz/iptv.php?id=20280 福建卫视,http://iptv.4666888.xyz/iptv.php?id=20187 童年回忆,http://iptv.4666888.xyz/iptv.php?id=20110 精彩剧集,http://iptv.4666888.xyz/iptv.php?id=20136 美食星球,http://iptv.4666888.xyz/iptv.php?id=20271 美食探店,http://iptv.4666888.xyz/iptv.php?id=20270 老电影,http://iptv.4666888.xyz/iptv.php?id=20248 职场人生,http://iptv.4666888.xyz/iptv.php?id=20140 育婴知识,http://iptv.4666888.xyz/iptv.php?id=20280 舌尖上的中国,http://iptv.4666888.xyz/iptv.php?id=20270 
+芒果TV,http://iptv.4666888.xyz/iptv.php?id=20189 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1 
+行脚节目,http://iptv.4666888.xyz/iptv.php?id=20140 街头美食,http://iptv.4666888.xyz/iptv.php?id=20270 卫视中文,http://iptv.4666888.xyz/iptv.php?id=20187 视讯新闻,http://iptv.4666888.xyz/iptv.php?id=20171 谈天说地,http://iptv.4666888.xyz/iptv.php?id=20140 财经新闻,http://iptv.4666888.xyz/iptv.php?id=20179 轻松一刻,http://iptv.4666888.xyz/iptv.php?id=20189 达人秀,http://iptv.4666888.xyz/iptv.php?id=20189 都市情感,http://iptv.4666888.xyz/iptv.php?id=20203 重温经典,http://iptv.4666888.xyz/iptv.php?id=20122 金牌调解,http://iptv.4666888.xyz/iptv.php?id=20140 鎏金岁月,http://iptv.4666888.xyz/iptv.php?id=20122 长城平台,http://iptv.4666888.xyz/iptv.php?id=20187 闽南语,http://iptv.4666888.xyz/iptv.php?id=20216 非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179 风云音乐,http://iptv.4666888.xyz/iptv.php?id=20134 风云剧场,http://iptv.4666888.xyz/iptv.php?id=20203 风云足球,http://iptv.4666888.xyz/iptv.php?id=20225 飞行旅游,http://iptv.4666888.xyz/iptv.php?id=20273 餐饮学院,http://iptv.4666888.xyz/iptv.php?id=20270 香港财经,http://iptv.4666888.xyz/iptv.php?id=20085 香港新闻,http://iptv.4666888.xyz/iptv.php?id=20085 香港经典,http://iptv.4666888.xyz/iptv.php?id=20122 香港赛马,http://iptv.4666888.xyz/iptv.php?id=20123 高尔夫球,http://iptv.4666888.xyz/iptv.php?id=20265 凤凰中文,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
 
 
 
 
 
-
-
-Plus综合频效,http://iptv.4666888.xyz/iptv.php?id=20072
-pₒₚc电影频效,http://iptv.4666888.xyz/iptv.php?id=20118
-CM+电影频效,http://iptv.4666888.xyz/iptv.php?id=20278
-Now爆谷频效,http://iptv.4666888.xyz/iptv.php?id=20087
-Now星影频效,http://iptv.4666888.xyz/iptv.php?id=20086
-中天新闻频效,http://iptv.4666888.xyz/iptv.php?id=20173
-中天新闻加效,http://iptv.4666888.xyz/iptv.php?id=20181
-有线新闻频效,http://iptv.4666888.xyz/iptv.php?id=20079
-无线新闻频效,http://iptv.4666888.xyz/iptv.php?id=20069
-Now新闻频效,http://iptv.4666888.xyz/iptv.php?id=20082
-凤凰中文频效,http://iptv.4666888.xyz/iptv.php?id=20063
-凤凰资讯频效,http://iptv.4666888.xyz/iptv.php?id=20064
-凤凰香港频效,http://iptv.4666888.xyz/iptv.php?id=20065
-无线翡翠频效,http://iptv.4666888.xyz/iptv.php?id=20066
-无线翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
-无线翡翠马来,http://iptv.4666888.xyz/iptv.php?id=20068
-无线明珠频效,http://iptv.4666888.xyz/iptv.php?id=20071
-无线娱乐频效,http://iptv.4666888.xyz/iptv.php?id=20073
-无线生活频效,http://iptv.4666888.xyz/iptv.php?id=20074
-无线星河国效,http://iptv.4666888.xyz/iptv.php?id=20102
-无线星河粤效,http://iptv.4666888.xyz/iptv.php?id=20101
-无线功夫国效,http://iptv.4666888.xyz/iptv.php?id=20104
-无线功夫粤效,http://iptv.4666888.xyz/iptv.php?id=20103
-无线翡剧频效,http://iptv.4666888.xyz/iptv.php?id=20099
-无线明剧频效,http://iptv.4666888.xyz/iptv.php?id=20098
-无线_1美频效,http://iptv.4666888.xyz/iptv.php?id=20095
-无线J1美频效,http://iptv.4666888.xyz/iptv.php?id=20096
-无线_E美频效,http://iptv.4666888.xyz/iptv.php?id=20097
-无线新闻美效,http://iptv.4666888.xyz/iptv.php?id=20070
-无线千禧频效,http://iptv.4666888.xyz/iptv.php?id=20105
-无线经典频效,http://iptv.4666888.xyz/iptv.php?id=20107
-无线综合频效,http://iptv.4666888.xyz/iptv.php?id=20111
-无线亚剧频效,http://iptv.4666888.xyz/iptv.php?id=20109
-无线戏曲频效,http://iptv.4666888.xyz/iptv.php?id=20113
-无线粤片频效,http://iptv.4666888.xyz/iptv.php?id=20112
-无线少儿频效,http://iptv.4666888.xyz/iptv.php?id=20110
-无线奖门人效,http://iptv.4666888.xyz/iptv.php?id=20138
-无线-EYT频效,http://iptv.4666888.xyz/iptv.php?id=20133
-无线识食频效,http://iptv.4666888.xyz/iptv.php?id=20141
-无线识叹频效,http://iptv.4666888.xyz/iptv.php?id=20140
-无线金曲频效,http://iptv.4666888.xyz/iptv.php?id=20142
-无线音乐频效,http://iptv.4666888.xyz/iptv.php?id=20134
-无线剧场频效,http://iptv.4666888.xyz/iptv.php?id=20136
-无线煲剧频效,http://iptv.4666888.xyz/iptv.php?id=20137
-无线话当年效,http://iptv.4666888.xyz/iptv.php?id=20139
-无线体育频效,http://iptv.4666888.xyz/iptv.php?id=20135
-有线综合频效,http://iptv.4666888.xyz/iptv.php?id=20078
-有线赛讯频效,http://iptv.4666888.xyz/iptv.php?id=20077
-有线赛马频效,http://iptv.4666888.xyz/iptv.php?id=20124
-无线赛马频效,http://iptv.4666888.xyz/iptv.php?id=20125
-28aI赛马频效,http://iptv.4666888.xyz/iptv.php?id=20126
-黄金翡翠频效,http://iptv.4666888.xyz/iptv.php?id=20106
-黄金华剧频效,http://iptv.4666888.xyz/iptv.php?id=20100
-Now剧集频效,http://iptv.4666888.xyz/iptv.php?id=20091
-Now紫金频效,http://iptv.4666888.xyz/iptv.php?id=20090
-Now财经频效,http://iptv.4666888.xyz/iptv.php?id=20085
-VIUTV-粤频效,http://iptv.4666888.xyz/iptv.php?id=20075
-VIUTV-英频效,http://iptv.4666888.xyz/iptv.php?id=20076
-RTHK-31频效,http://iptv.4666888.xyz/iptv.php?id=20080
-RTHK-32频效,http://iptv.4666888.xyz/iptv.php?id=20081
-HUB娱家频效,http://iptv.4666888.xyz/iptv.php?id=20287
-HUB都会频效,http://iptv.4666888.xyz/iptv.php?id=20288
-新加乐酷频效,http://iptv.4666888.xyz/iptv.php?id=20281
-新加_E乐频效,http://iptv.4666888.xyz/iptv.php?id=20282
-新加佳乐频效,http://iptv.4666888.xyz/iptv.php?id=20289
-新加CHu频效,http://iptv.4666888.xyz/iptv.php?id=20284
-新加CH5频效,http://iptv.4666888.xyz/iptv.php?id=20285
-新加CH8频效,http://iptv.4666888.xyz/iptv.php?id=20286
-天映经典国效,http://iptv.4666888.xyz/iptv.php?id=20115
-天映经典粤效,http://iptv.4666888.xyz/iptv.php?id=20114
-天映频道国效,http://iptv.4666888.xyz/iptv.php?id=20116
-天映频道粤效,http://iptv.4666888.xyz/iptv.php?id=20117
-星光综合频效,http://iptv.4666888.xyz/iptv.php?id=20121
-重温经典频效,http://iptv.4666888.xyz/iptv.php?id=20122
-澳门莲花频效,http://iptv.4666888.xyz/iptv.php?id=20130
-澳门资讯频效,http://iptv.4666888.xyz/iptv.php?id=20129
-澳门Macau效,http://iptv.4666888.xyz/iptv.php?id=20128
-澳视澳门频效,http://iptv.4666888.xyz/iptv.php?id=20127
-澳门体育频效,http://iptv.4666888.xyz/iptv.php?id=20131
-澳门综合频效,http://iptv.4666888.xyz/iptv.php?id=20131
 
 恐怖🇨🇳剧场,#genre#
 蛊1981,https://v.cdnlz19.com/20240528/35190_60f24664/index.m3u8
