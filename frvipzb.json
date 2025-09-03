@@ -3,7 +3,7 @@
     {
       "name": "片源切换",
       "type": 0,
-      "url": "https://gitee.com/dafeihz/jk/raw/master/zhibo",
+      "url": "http://ys.my.to//i/?T=阅兵",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
