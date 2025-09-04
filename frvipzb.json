@@ -3,64 +3,64 @@
     {
       "name": "片源切换",
       "type": 0,
-      "url": "http://ys.my.to//i/?T=阅兵",
+      "url": "http://mytv.3d.tc//i/?T=无线电视",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "🔞黄🔞",
+      "name": "台奥直播",
       "type": 0,
-      "url": "https://gitee.com/dafeihz/jk/raw/master/18j.txt",
+      "url": "http://ys.my.to//i/?T=阅兵",
       "playerType": 1
     },
     {
-      "name": "MTV专区",
+      "name": "彭彭直播",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "url": "https://pan.29o.cn/down.php/b72ad6f6144c52fb82fc0d34a5f979d0.txt",
       "playerType": 1
     },
     {
-      "name": "影视车线",
+      "name": "飞花直播8886",
       "type": 0,
-      "url": "http://211.101.234.24:866/2025.txt",
+      "url": "https://qu.ax/LEOAL.txt",
       "playerType": 1
     },
     {
-      "name": "音乐电影",
+      "name": "千频直播",
       "type": 0,
-      "url": "https://fel.forxhr.top:2022/down.php/e42cef765f00fcf35941208a80e55869.txt",
+      "url": "https://gitee.com/huluxiaansheng/zby/raw/master/千频直播.txt",
       "playerType": 1
     },
     {
 
-      "name": "欧华线路",
+      "name": "全球直播",
 
       "type": 0,
 
-      "url": "https://notabug.org/kan314/dd/raw/main/0426hua159.txt",
+      "url": "https://freetv.fun/test_channels_original.txt",
 
       "playerType": 2
 
     },
     {
 
-      "name": "探探线路",
+      "name": "七猫直播",
 
       "type": 0,
 
-      "url": "http://mdxgh.tpddns.cn:9999/1028lib/1.txt",
+      "url": "https://box.qimaoym.com/uploads/tvbox/vip2/live.txt",
 
       "playerType": 2
 
     },
     {
 
-      "name": "黑软1线",
+      "name": "蚂蚁直播",
 
       "type": 0,
 
-      "url": "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh",
+      "url": "http://rihou.cc:555/gggg.nzk/",
 
       "playerType": 1
 
