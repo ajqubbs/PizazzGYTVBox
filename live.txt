@@ -1452,17 +1452,16 @@ CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-极限,http://devpulllive.xylink.com:80/live/831471681f29b9b8a95d9de0b3f7d235.flv
-happy,http://devpulllive.xylink.com:80/live/ddfd2b8c584a61e9b563bc398d2dfa90.flv
-香蕉,http://devpulllive.xylink.com:80/live/50078bdfa8105d0954577b2d1e21cd48.flv
-惊艳,http://devpulllive.xylink.com:80/live/caccda5168fa54569dddf7b2bdb04d1d.flv
-潘朵拉,http://devpulllive.xylink.com:80/live/5849d7f77a441de6181ae42cae8d05e1.flv
-彩虹电影,http://devpulllive.xylink.com:80/live/78fe2bb0818e6a043c98ccca4142354f.flv
-K频道,http://devpulllive.xylink.com:80/live/6e826041f8d14188bdca0646d5e316cb.flv
-彩虹e,http://devpulllive.xylink.com:80/live/a816b46b65fbb18991d49aab54ea99b1.flv
-松视3,http://devpulllive.xylink.com:80/live/f899df208160a513114c035e866ef11d.flv
-松视1,http://devpulllive.xylink.com:80/live/b3569cb261f947442c217e2c62034e32.flv
-
+极限,http://devpulllive.xylink.com:80/live/e7c7f62b44089bc0e7e1c7ffa6b21246.flv
+happy,http://devpulllive.xylink.com:80/live/56a63f4b829cc750700246d3ba5c8cdc.flv
+香蕉,http://devpulllive.xylink.com:80/live/fd8a2d3d66a6f5c7960ad96268d42b66.flv
+惊艳,http://devpulllive.xylink.com:80/live/a9761249f27da760bb9ac71450e611ac.flv
+潘朵拉,http://devpulllive.xylink.com:80/live/f99527a1d4639a5c2aafa7b9450d49b7.flv
+彩虹电影,http://devpulllive.xylink.com:80/live/c3e6e9e62b0cdce017758f01c2b53ce5.flv
+K频道,http://devpulllive.xylink.com:80/live/6138206e076ddb3c8fb38874cadc0fc1.flv
+彩虹e,http://devpulllive.xylink.com:80/live/08bacef115199b1a3bfa220517643421.flv
+松视3,http://devpulllive.xylink.com:80/live/9e1d0f009427e116beaf018c4fb86a3e.flv
+松视1,http://devpulllive.xylink.com:80/live/a4f5864337911e5b0c09d671b7f5bfe7.flv
 
 
 
