@@ -306,7 +306,7 @@ TVB练习生,https://mursor.ottiptv.cc/huya/23865132
 ITVB大后宫,https://mursor.ottiptv.cc/huya/23863804
 TVBABY,https://mursor.ottiptv.cc/huya/23865164
 香港刑侦实录,https://mursor.ottiptv.cc/huya/23865058
-地方频道,#genre#
+影视🐞频道,#genre#
 202508-2006:37:36,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
 4K60PSDRH264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 4K60PHLGHEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
