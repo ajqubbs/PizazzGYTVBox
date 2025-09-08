@@ -5,10 +5,93 @@ Q群1045327528,CCTV-01超清,http://t.061899.xyz/tl/tl.php?id=cctv1
 台湾是中国的,CCTV-01超清,http://t.061899.xyz/tl/tl.php?id=cctv1
 
 
+港湾🍇测试,#genre#
 
 
-
-
+JACK,https://php.946985.xyz/logo/jackiptv.mp4
+翡翠台,https://jackmytv.946985.qzz.io/hls/fct/playlist.m3u8
+翡翠台,https://jackcdn6.946985.qzz.io/live/fct/stream.m3u8
+翡翠台,https://jackcdn6.946985.qzz.io/live/fct4k/stream.m3u8
+翡翠台,https://jacko12.946985.qzz.io/hls/fct4k/playlist.m3u8
+无线新闻台,https://jackcdn6.946985.qzz.io/live/wxxw/stream.m3u8
+无线新闻台,https://jackjackv2h.946985.qzz.io/live/wxxw/stream.m3u8
+明珠台,https://jackcdn6.946985.qzz.io/live/mzt/stream.m3u8
+明珠台,https://jacko12.946985.qzz.io/hls/mzt/playlist.m3u8
+TVB PLUS,https://jackcdn6.946985.qzz.io/live/tvbp/stream.m3u8
+HOY TV,https://jackcdn6.946985.qzz.io/live/hoy/stream.m3u8
+HOY TV,https://jackcdn.946985.qzz.io/live/hoy/stream.m3u8
+VIUTV,https://jackcdn.946985.qzz.io/live/viu/stream.m3u8
+VIUTVSIX,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=viusix_twn
+NOW新闻台,https://jackcdn.946985.qzz.io/live/now/stream.m3u8
+TV 31,https://jackcdn.946985.qzz.io/live/rthk31/stream.m3u8
+TV 32,https://jackcdn.946985.qzz.io/live/rthk32/stream.m3u8
+澳视澳门,https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
+澳视卫星,https://jackcdn6.946985.qzz.io/live/as/stream.m3u8
+凤凰卫视中文台,https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
+凤凰卫视资讯台,https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
+凤凰卫视香港台,https://jackcdn6.946985.qzz.io/live/fhhk/stream.m3u8
+CCTV1,https://jackcdn6.946985.qzz.io/live/cctv1/stream.m3u8
+CCTV13,https://jackcdn3.946985.qzz.io/live/cctv13/stream.m3u8
+广东珠江,https://jackcdn2.946985.qzz.io/live/gdzj/stream.m3u8
+广东体育,https://jackcdn2.946985.qzz.io/live/gdty/stream.m3u8
+五星体育,https://jackcdn3.946985.qzz.io/live/wxty/stream.m3u8
+深圳卫视,https://jackcdn3.946985.qzz.io/live/szws4k/stream.m3u8
+深圳财经生活,https://jackcdn3.946985.qzz.io/live/szcjsh/stream.m3u8
+第一财经,https://jackcdn3.946985.qzz.io/live/dycj/stream.m3u8
+重温经典,https://jackcdn6.946985.qzz.io/live/cwjd/stream.m3u8
+龙华电影HD,https://jackcdn8.946985.qzz.io/live/lhdy/stream.m3u8
+龙华经典HD,https://jackcdn8.946985.qzz.io/live/lhjd/stream.m3u8
+龙华卡通,https://jackcdn8.946985.qzz.io/live/lhkt/stream.m3u8
+龙华偶像HD,https://jackcdn8.946985.qzz.io/live/lhox/stream.m3u8
+龙华日韩,https://jackcdn8.946985.qzz.io/live/lhrh/stream.m3u8
+龙华戏剧HD,https://jackcdn8.946985.qzz.io/live/lhxj/stream.m3u8
+龙华洋片HD,https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
+TVB1,https://jackcdn6.946985.qzz.io/live/tvb1/stream.m3u8
+TVBJ1,https://jackcdn6.946985.qzz.io/live/j1/stream.m3u8
+TVB亚洲武侠,https://jackv2h.946985.qzz.io/live/yzwx/stream.m3u8
+娱乐新闻台,https://jackv2h.946985.qzz.io/live/ylxw/stream.m3u8
+娱乐新闻台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbentertainment
+翡翠台,https://jackv2h.946985.qzz.io/live/hlfct/stream.m3u8
+翡翠台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbjade
+TVB星河,https://jackv2h.946985.qzz.io/live/tvbxh/stream.m3u8
+TVB星河,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Xinhe
+翡翠剧集台,https://jackcdn6.946985.qzz.io/live/tvbd/stream.m3u8
+千禧经典台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbclassic
+美亚电影台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+天映频道,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial
+天映经典频道,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Celestial2
+爱奇艺,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Qiyi
+八度空间,https://jackcdn6.946985.qzz.io/live/8tv/stream.m3u8
+CH5,https://jackcdn6.946985.qzz.io/live/ch5/stream.m3u8
+CH8,https://jackcdn6.946985.qzz.io/live/ch8/stream.m3u8
+CHU,https://jackcdn6.946985.qzz.io/live/chu/stream.m3u8
+Astro AOD,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Aodhd
+Astro AEC,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=AEC
+Astro QJ,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Quanjia
+Astro欢喜台,https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Huahee
+LOVENATURE,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live208
+FUN探索娱乐台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live011
+幸福空间居家台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live206
+历史频道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live026
+ELTA生活旅遊,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live120
+GlobalTrekker,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live112
+原住民族电视台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live014
+车迷TV,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live201
+滚动力ROLLOR,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live012
+三立综合台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live207
+三立iNEWS,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live089
+LIVEABC互动英语频道,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live030
+NickJr.,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live032
+NICKELODEON,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live105
+DREAMWORKS,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live017
+MOMO亲子台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live107
+BLOOMBERG,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live059
+SBN全球财经台,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live060
+NHK新闻资讯台HD,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live168
+ROCKEntertainment,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live080
+LIFETIME,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live029
+电影原声台CMUSIC,https://php.946985.xyz/jack4gtv.php?ch=4gtv-live031
+MTV,https://php.946985.xyz/jack
 
 
 央卫🍇超清,#genre#
