@@ -26,7 +26,7 @@ HOY78,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=hoy78a&token=酷9JS交�
 HOY78,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=hoy78&token=酷9JS交流群424765458
 RTHK31,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=rthk31&token=酷9JS交流群424765458
 RTHK32,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=rthk32&token=酷9JS交流群424765458
-台湾频道,#genre#
+台湾🥝频道,#genre#
 中天新闻,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=citnews&token=酷9JS交流群424765458
 东森新闻,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=ebcnews&token=酷9JS交流群424765458
 东森财经,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=ebccj&token=酷9JS交流群424765458
@@ -65,7 +65,7 @@ ELEVEN2(DAZN2),http://脚本只支持本地/ku9/js/ku9-tbs.js?id=DAZN2&token=酷
 MOMO综合台,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=momozht&token=酷9JS交流群424765458
 东森超视,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=dscs&token=酷9JS交流群424765458
 CNN新闻,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=cnn&token=酷9JS交流群424765458
-央视频道,#genre#
+央视🥝频道,#genre#
 CCTV1综合,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=cctv1hd&token=酷9JS交流群424765458
 CCTV2财经,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=cctv2hd&token=酷9JS交流群424765458
 CCTV3综艺,http://脚本只支持本地/ku9/js/ku9-tbs.js?id=cctv3hd&token=酷9JS交流群424765458
