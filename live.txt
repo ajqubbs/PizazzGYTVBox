@@ -1907,7 +1907,7 @@ E,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
 源30,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
 源31,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
 
-松鼠🍎彩虹_00,#genre#
+松鼠🍎彩虹_99,#genre#
 极限,http://applivewatermark.imfc.cn:80/live/60560302df6358ccf22deb76e148868b.flv
 happy,http://applivewatermark.imfc.cn:80/live/5cd4a730e76a49b25db58206a750cf25.flv
 香蕉,http://applivewatermark.imfc.cn:80/live/097c49b7f14718a9132e1988cb4e75e6.flv
