@@ -2047,16 +2047,16 @@ E,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
 源31,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
 
 松鼠🍎彩虹_99,#genre#
-极限,http://applivewatermark.imfc.cn:80/live/60560302df6358ccf22deb76e148868b.flv
-happy,http://applivewatermark.imfc.cn:80/live/5cd4a730e76a49b25db58206a750cf25.flv
-香蕉,http://applivewatermark.imfc.cn:80/live/097c49b7f14718a9132e1988cb4e75e6.flv
-惊艳,http://applivewatermark.imfc.cn:80/live/d871686fffedd590713777fac87fb6c2.flv
-潘朵拉,http://applivewatermark.imfc.cn:80/live/b28fe184a2b9f2eda77705f31a3d2b72.flv
-彩虹电影,http://applivewatermark.imfc.cn:80/live/36b42eb49352873416e0b54cd5f6a0c4.flv
-K频道,http://applivewatermark.imfc.cn:80/live/c89d63f84d137e521933761995a6f553.flv
-e频道,http://applivewatermark.imfc.cn:80/live/6bd4224e3d59ef70043d07ae85bd0bc3.flv
-松视3,http://applivewatermark.imfc.cn:80/live/8c224a4d50a06509193598178843c321.flv
-松视1,http://applivewatermark.imfc.cn:80/live/ecfc603d2c860d6f25cfd1d68fe6912a.flv
+极限,http://applivewatermark.imfc.cn:80/live/0d12875561da1685c7a08275c12bfe69.flv
+happy,http://applivewatermark.imfc.cn:80/live/6f9e862043fd9f0f105e1ec9b767a003.flv
+香蕉,http://applivewatermark.imfc.cn:80/live/809ac6349b146cafea8a28360f31728e.flv
+惊艳,http://applivewatermark.imfc.cn:80/live/a82167269c54a9684a5f7ee1bd42b7ce.flv
+潘朵拉,http://applivewatermark.imfc.cn:80/live/7eecca2325c675d351bb612a72651822.flv
+彩虹电影,http://applivewatermark.imfc.cn:80/live/1b5beef1849a7a6de52cb0413b68b91a.flv
+K频道,http://applivewatermark.imfc.cn:80/live/c2a94920138435f1e82706d84caae385.flv
+彩虹e,http://applivewatermark.imfc.cn:80/live/02ba8de8ed81d450de77ee651805b363.flv
+松视3,http://applivewatermark.imfc.cn:80/live/9d61791bba700cae378e3952db33547c.flv
+松视1,http://applivewatermark.imfc.cn:80/live/ebfac600c6582274b7bd7f4a241ca2c6.flv
 
 
 
