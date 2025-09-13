@@ -31,7 +31,39 @@ CETV4,CETV4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
 港湾🍇测试,#genre#
 
-
+松松68TV,http://171.80.2.171:8080/live/test68.flv
+松松69TV,http://171.80.2.171:8080/live/test69.flv
+松松70TV,http://171.80.2.171:8080/live/test70.flv
+松松71TV,http://171.80.2.171:8080/live/test71.flv
+松松72TV,http://171.80.2.171:8080/live/test72.flv
+松松73TV,http://171.80.2.171:8080/live/test73.flv
+松松74TV,http://171.80.2.171:8080/live/test74.flv
+松松75TV,http://171.80.2.171:8080/live/test75.flv
+松松76TV,http://171.80.2.171:8080/live/test76.flv
+松松77TV,http://171.80.2.171:8080/live/test77.flv
+松松78TV,http://171.80.2.171:8080/live/test78.flv
+松松79TV,http://171.80.2.171:8080/live/test79.flv
+松松80TV,http://171.80.2.171:8080/live/test80.flv
+松松81TV,http://171.80.2.171:8080/live/test81.flv
+松松82TV,http://171.80.2.171:8080/live/test82.flv
+松松83TV,http://171.80.2.171:8080/live/test83.flv
+松松84TV,http://171.80.2.171:8080/live/test84.flv
+松松85TV,http://171.80.2.171:8080/live/test85.flv
+松松86TV,http://171.80.2.171:8080/live/test86.flv
+松松87TV,http://171.80.2.171:8080/live/test87.flv
+松松88TV,http://171.80.2.171:8080/live/test88.flv
+松松89TV,http://171.80.2.171:8080/live/test89.flv
+松松90TV,http://171.80.2.171:8080/live/test90.flv
+松松91TV,http://171.80.2.171:8080/live/test91.flv
+松松92TV,http://171.80.2.171:8080/live/test92.flv
+松松93TV,http://171.80.2.171:8080/live/test93.flv
+松松94TV,http://171.80.2.171:8080/live/test94.flv
+松松95TV,http://171.80.2.171:8080/live/test95.flv
+松松96TV,http://171.80.2.171:8080/live/test96.flv
+松松97TV,http://171.80.2.171:8080/live/test97.flv
+松松98TV,http://171.80.2.171:8080/live/test98.flv
+松松99TV,http://171.80.2.171:8080/live/test99.flv
+松松100TV,http://171.80.2.171:8080/live/test100.flv
 MOMO綜合臺,rtmp://f13h.mine.nu/sat/tv761
 TVBS Asia,https://stream1.freetv.fun/f7609a9d5a728301933aaa0b368011266dcb976577cb7093a38fdb6bbdbc990b.m3u8
 TVBS HD,https://stream1.freetv.fun/d28c1980af80d5fd433f5f9eff21e59078d29d80b3e6a5bd485786d6072fc409.ctv
