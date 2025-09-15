@@ -1,3 +1,6 @@
+
+//凡人会员专用版本
+
 全国频道1,#genre#
 
 CCTV1HD,http://118.251.96.145:8888/udp/239.76.246.151:1234
@@ -493,6 +496,11 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 
 松果频道_99,#genre#
 
+星空草莓台,http://1.95.83.42:8081/yy/13555
+32933.flv
+
+
+星空菠萝台,http://1.95.83.42:8081/yy/1354888726.flv
 松视 2台,http://live.giccoo.com/live/79f9443d4dc8e603f3e2c4a6879b729a.flv
 松视3台,http://live.giccoo.com/live/5ac628696d85bef841957ef162f126e1.flv
 彩虹E台,http://live.giccoo.com/live/7b560e944e1c783482e851df91d4f9a3.flv
