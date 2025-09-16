@@ -1,7 +1,7 @@
 
 
 
-通用港台,#genre#
+通用港台1,#genre#
 
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
@@ -94,6 +94,41 @@ History,http://iptv.4666888.xyz/iptv.php?id=20283
 靖天资讯,http://iptv.4666888.xyz/iptv.php?id=20302
 
 
+通用港台2,#genre#
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://j.s.bkpcp.top/js/fhzw#https://cdn.946985.qzz.io/live/fhzw/stream.m3u8
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+美亚电影(台),http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn#http://php.jdshipin.com/PLTV/iptv.php?id=meiya#https://smt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
+PopC,https://stream1.freetv.fun/464e43fff89d0caa900172937c2f1d2dad1ffc2d17e91c903dae42f3b8673975.ctv#http://tl.061833.xyz/tl/popc
+爆谷台,http://j.s.bkpcp.top/js/nowbgt#https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.ctv
+星影台,http://j.s.bkpcp.top/js/nowxyt
+CM+,http://php.jdshipin.com/smt.php?id=Aodhd
+重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+新唐人台,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB,https://gdfire2.67890123.cn:8088/live/tvbplus.m3u8
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线新闻,http://bx.757888.xyz/api.php?id=wxxw
+明珠台,http://bx.757888.xyz/api.php?id=mz
+美亚（国语）,http://iptv.4666888.xyz/iptv.php?id=20120
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#https://cdn3.163189.xyz/live/fct/stream.m3u8
+台湾台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+未来频道,http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
+澳门莲花,https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8#http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
+澳门卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳门澳视,http://php.jdshipin.com/PLTV/iptv.php?id=asam
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
 
 全国频道1,#genre#
 
@@ -439,41 +474,6 @@ CCTV-17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
-港台频道1,#genre#
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://j.s.bkpcp.top/js/fhzw#https://cdn.946985.qzz.io/live/fhzw/stream.m3u8
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-美亚电影(台),http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn#http://php.jdshipin.com/PLTV/iptv.php?id=meiya#https://smt.946985.qzz.io/smt3.2.1.php?id=meiyamovie_twn
-PopC,https://stream1.freetv.fun/464e43fff89d0caa900172937c2f1d2dad1ffc2d17e91c903dae42f3b8673975.ctv#http://tl.061833.xyz/tl/popc
-爆谷台,http://j.s.bkpcp.top/js/nowbgt#https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.ctv
-星影台,http://j.s.bkpcp.top/js/nowxyt
-CM+,http://php.jdshipin.com/smt.php?id=Aodhd
-重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-新唐人台,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB,https://gdfire2.67890123.cn:8088/live/tvbplus.m3u8
-TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-无线新闻,http://bx.757888.xyz/api.php?id=wxxw
-明珠台,http://bx.757888.xyz/api.php?id=mz
-美亚（国语）,http://iptv.4666888.xyz/iptv.php?id=20120
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8#https://cdn3.163189.xyz/live/fct/stream.m3u8
-台湾台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-未来频道,http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
-澳门莲花,https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8#http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
-澳门卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳门澳视,http://php.jdshipin.com/PLTV/iptv.php?id=asam
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
 
 
 
