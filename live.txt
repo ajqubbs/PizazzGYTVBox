@@ -2211,20 +2211,16 @@ E,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
 
 松鼠🍎彩虹_99,#genre#
 
-
-
-极限,http://live.giccoo.com:80/live/fb214c76fb701e1f6e713e029c8d84d6.flv
-happy,http://live.giccoo.com:80/live/d820f0555cd5525950e5aa223695b5de.flv
-香蕉,http://live.giccoo.com:80/live/1aacacf7f8b23c9d078d89576f454ea1.flv
-惊艳,http://live.giccoo.com:80/live/87ea637b54530408b581c566356941bf.flv
-潘多拉,http://live.giccoo.com:80/live/9f6ba97fc84d2b74d85e4f726ba2be62.flv
-彩虹电影,http://live.giccoo.com:80/live/9049c6cec887867a73da9f931bacc87a.flv
-彩虹k,http://live.giccoo.com:80/live/03a60c573a712ae36c489211c1169106.flv
-彩虹e,http://live.giccoo.com:80/live/592981f2458f35e3de61317ce205b1ab.flv
-松视3,http://live.giccoo.com:80/live/e651b502903886a16dd7ade20ecd3af5.flv
-松视1,http://live.giccoo.com:80/live/66d929be91ccb70c434012c122c981a5.flv
-
-
+极限,http://live.tinktek.net:80/live/f07ccf302385e12d88d0130e5827b8d9.flv
+happy,http://live.tinktek.net:80/live/c1898f6366de6cf8ae8b3629854dfc54.flv
+香蕉,http://live.tinktek.net:80/live/1ca61077f7302be8bbdad2e91ef4284c.flv
+惊艳,http://live.tinktek.net:80/live/3fb7ac8d57839b833f85dc0ee415f33f.flv
+潘多拉,http://live.tinktek.net:80/live/e083175963302b78ef2397623712e510.flv
+彩虹电影,http://live.tinktek.net:80/live/297a79deb657737b0cfc9de6bbec36d0.flv
+彩虹k,http://live.tinktek.net:80/live/933c24fe486c61d74c30de7432965157.flv
+彩虹e,http://live.tinktek.net:80/live/81c2a504b8bdd86303b1749b345a0d55.flv
+松视3,http://live.tinktek.net:80/live/1f0e3f5e5d0cd35901d711e85bf0df05.flv
+松视1,http://live.tinktek.net:80/live/cab43ab471f0e1aacf93a4008a66cf67.flv
 
 花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 🎄松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
